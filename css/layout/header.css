@@ -54,6 +54,8 @@
   }
 
   .mobile-menu {
+    flex-direction: column;
+    display: flex;
     position: fixed;
     left: 0;
     top: 0;
@@ -171,7 +173,7 @@
   }
 
   .address-mobile-menu {
-    margin-top: 168px;
+    margin-top: auto;
   }
 }
 
